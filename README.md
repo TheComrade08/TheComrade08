@@ -4,6 +4,6 @@ I am a beginner coder, trying to learn new languages and create cool projects ğŸ
 
 <hr>
 
-# Languages/Frameworks I have used:
+# Languages I have used:
 
-<img src="https://skillicons.dev/icons?i=py,js" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,html,css" />
