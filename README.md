@@ -3,7 +3,7 @@
 I am a beginner coder, trying to learn new languages and create cool projects 😀
 
 <hr>
-# Languages/frameworks I have used:
+**Languages/frameworks I have used:**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
