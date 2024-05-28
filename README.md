@@ -2,4 +2,7 @@
 
 Just a middle school student trying to get better at CS :)
 
-<img src="https://skillicons.dev/icons?i=py,js,html" />
+# LANGUAGES & FRAMEWORKS I USE:
+
+<img src="https://skillicons.dev/icons?i=py,js,html&perline=3" />
+
