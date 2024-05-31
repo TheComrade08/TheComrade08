@@ -1,7 +1,7 @@
-# Yo! I am cantonKeyboard👋
+# Yo! I am Numplex👋
 
 Just a middle school student trying to get better at CS :)
 
-# Languages I use:
+### Familar with:
 
 <img src="https://skillicons.dev/icons?i=py,js,html,css" />
