@@ -5,4 +5,4 @@ Just a middle school student trying to get better at CS :)
 <img src="https://skillicons.dev/icons?i=py,html,css" />
 
 ### 📖 Learning:
-<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=cpp,kotlin" />
