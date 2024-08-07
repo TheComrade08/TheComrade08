@@ -3,7 +3,7 @@ I am a middle-school student trying to become better at coding and CS :)
 
 ### ⚡Familar with: Nothing yet
 ### 📖 Learning:
-<img src="https://skillicons.dev/icons?i=cs,cpp,unity,py" />
+<img src="https://skillicons.dev/icons?i=cs,ts,py" />
 
 ### 💻 Software for writing code:
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
